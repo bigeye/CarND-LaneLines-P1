@@ -13,7 +13,7 @@ The goals / steps of this project are the following:
 [grayscale]: ./imgs/grayscaled.jpg "Grayscale"
 [canny_applied]: ./imgs/canny_applied.jpg "Canny-applied"
 [blurred]: ./imgs/blurred.jpg "Blurred"
-[masked]: ./imgs/maksed.jpg "Masked"
+[masked]: ./imgs/masked.jpg "Masked"
 [hough]: ./imgs/hough.jpg "Hough"
 [final]: ./imgs/final.jpg "Final"
 [final2]: ./imgs/final2.jpg "Final2"
